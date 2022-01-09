@@ -1,7 +1,5 @@
-package ProFinal.Piezas;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Pieza {
     private int x;
     private int y;

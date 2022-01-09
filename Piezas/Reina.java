@@ -1,9 +1,5 @@
-package ProFinal.Piezas;
-
-import javax.swing.plaf.basic.BasicProgressBarUI;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Reina extends Pieza {
 
     public Reina(int x, int y, boolean blanca, String dirc, Tablero tablero) {

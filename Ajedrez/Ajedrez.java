@@ -1,4 +1,5 @@
-package ProFinal;
+package Ajedrez;
+
 public class Ajedrez {
 
     public Frame frame;

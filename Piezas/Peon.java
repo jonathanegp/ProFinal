@@ -1,9 +1,5 @@
-package ProFinal.Piezas;
-
-import javax.management.relation.MBeanServerNotificationFilter;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Peon extends Pieza {
 
     private boolean nMovimientos;

@@ -1,9 +1,5 @@
-package ProFinal.Piezas;
-
-import java.net.PasswordAuthentication;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Rey extends Pieza {
 
     public Rey(int x, int y, boolean blanca, String file, Tablero tablero) {

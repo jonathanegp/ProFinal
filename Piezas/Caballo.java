@@ -1,7 +1,5 @@
-package ProFinal.Piezas;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Caballo extends Pieza {
 
     public Caballo(int x, int y, boolean Blanca, String dirc, Tablero tablero) {

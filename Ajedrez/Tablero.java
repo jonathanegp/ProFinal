@@ -1,5 +1,4 @@
-package ProFinal;
-
+package Ajedrez;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.geom.*;
@@ -8,8 +7,7 @@ import java.io.*;
 import java.util.*;
 import javax.imageio.*;
 import javax.swing.*;
-import ProFinal.Piezas.*;
-
+import Piezas.*;
 public class Tablero extends JComponent {
 
     public int turnCounter = 0;

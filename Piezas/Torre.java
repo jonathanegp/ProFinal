@@ -1,9 +1,5 @@
-package ProFinal.Piezas;
-
-import javax.print.attribute.standard.RequestingUserName;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Torre extends Pieza {
 
     public Torre(int x, int y, boolean blanca, String dirc, Tablero tablero) {

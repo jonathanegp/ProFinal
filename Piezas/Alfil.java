@@ -1,7 +1,5 @@
-package ProFinal.Piezas;
-
-import ProFinal.Tablero;
-
+package Piezas;
+import Ajedrez.Tablero;
 public class Alfil extends Pieza {
 
 	public Alfil(int x, int y, boolean blanca, String dirc, Tablero tablero) {

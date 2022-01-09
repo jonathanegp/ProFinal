@@ -1,5 +1,4 @@
-package ProFinal;
-
+package Ajedrez;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import javax.swing.JFrame;
